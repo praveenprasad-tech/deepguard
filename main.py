@@ -1,1 +1,3 @@
-print("DeepGuard project started 🚀")
+import cv2
+
+print("DeepGuard started 🚀")
