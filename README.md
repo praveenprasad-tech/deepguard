@@ -3,18 +3,17 @@
 🚧 Project Status: In Progress
 
 ## 📌 Overview
-DeepGuard is an AI-based system designed to detect deepfake content across images, videos, and audio using deep learning techniques.
+DeepGuard is an AI-based system that detects deepfake images using machine learning techniques. It processes input images and classifies them as real or fake.
 
 ## 🚀 Features
-- Detects deepfake images, videos, and audio
-- Uses CNN model for classification
-- Multimodal input processing
-- Real-time detection (planned)
+- Image input processing
+- Deepfake detection
+- Fast prediction system
 
 ## 🛠️ Tech Stack
 - Python
-- TensorFlow
 - OpenCV
+- TensorFlow
 
 ## 📊 Current Progress
 - Model development in progress
