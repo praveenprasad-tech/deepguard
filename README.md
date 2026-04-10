@@ -1,28 +1,37 @@
-# DeepGuard — Multimodal Deepfake Detection System
+# 🛡️ DeepGuard — Multimodal Deepfake Detection System
 
-🚧 Project Status: In Progress
+🚧 **Project Status:** In Progress | 60 Days Challenge
 
 ## 📌 Overview
-DeepGuard is an AI-based system that detects deepfake images using machine learning techniques. It processes input images and classifies them as real or fake.
+DeepGuard is an AI-based system designed to detect deepfake content across 
+images, videos, and audio using deep learning techniques (CNN + MobileNetV2).
 
 ## 🚀 Features
-- Image input processing
-- Deepfake detection
-- Fast prediction system
+- ✅ Image deepfake detection
+- 🔄 Video frame-by-frame detection (coming soon)
+- 🔄 Audio deepfake detection (coming soon)
+- 🔄 Real-time webcam detection (coming soon)
+- 🔄 Web UI with FastAPI (coming soon)
 
 ## 🛠️ Tech Stack
 - Python
+- TensorFlow & Keras
 - OpenCV
-- TensorFlow
+- MobileNetV2 (CNN Architecture)
+- FastAPI
+- Librosa (Audio)
 
 ## 📊 Current Progress
-- Model development in progress
-- Dataset collection ongoing
+- Day 1 ✅ - Project setup and structure
+- Day 2 🔄 - Dataset collection (ongoing)
 
 ## 📈 Future Improvements
-- Improve accuracy above 90%
+- Improve accuracy above 80%
 - Deploy as web application
 - Add real-time video detection
+- Multi-language support
 
 ## 👨‍💻 Author
-Praveen Prasad
+**Praveen Prasad**
+B.Tech CSE @ PSIT Kanpur
+GitHub: https://github.com/praveenprasad-tech
